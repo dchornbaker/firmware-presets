@@ -3658,7 +3658,7 @@
     },
     {
       "fullPath": "presets/4.4/modes/n1dch-modes.txt",
-      "hash": "d1f6cfa92131260471b503258f654ccc45ed0802a72a0c577395355efc2d7c43",
+      "hash": "1db52efdbaf950173efb0081b1e3b72c087f231ebb8e1504a5752ae27f3e761d",
       "title": "N1DCH modes",
       "firmware_version": [
         "3.5",
@@ -3667,7 +3667,7 @@
         "4.4"
       ],
       "category": "MODES",
-      "status": "COMMUNITY",
+      "status": "EXPERIMENTAL",
       "keywords": [
         "Modes",
         "aux"

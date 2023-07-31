@@ -178,6 +178,7 @@
       "MinChan Kim",
       "mouseFPV",
       "MrAlucardDante",
+      "N1DCH (Dave Hornbaker)",
       "N1DCH (David Hornbaker)",
       "NemesisXB",
       "QuadMcFly (Ryan Harrell)",
@@ -464,6 +465,7 @@
       "Throttle cap",
       "tiny",
       "tiny tank",
+      "tinyhawk",
       "TinyTrainer",
       "toothpic",
       "Toothpick",
@@ -4681,6 +4683,29 @@
         "MSP VTX"
       ],
       "author": "sugarK",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.4/vtx/Tinyhawk1.txt",
+      "hash": "9165db88819b39bcf964ab68799495d9ecd4fe5cc3be22a2509885afcf9681c7",
+      "title": "Emax Tinyhawk 1S SmartAudio 2.0 VTX table",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "tinyhawk",
+        "emax",
+        "smartaudio",
+        "sa",
+        "sa20",
+        "sa2.0"
+      ],
+      "author": "N1DCH (Dave Hornbaker)",
       "priority": 1000000
     },
     {

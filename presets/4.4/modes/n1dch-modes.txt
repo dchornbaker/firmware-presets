@@ -9,9 +9,9 @@
 #$ AUTHOR: N1DCH (Dave Hornbaker)
 #$ DESCRIPTION: SA2.0 VTX table for the Emax TinyHawk 1S
 #$ INCLUDE_DISCLAIMER: misc/disclaimer/en/vtxtable.txt
-#$ INCLUDE: presets/4.3/vtx/defaults_vtx_tables.txtx 0 0 0 1925 2050 0 0
+#$ INCLUDE: presets/4.3/vtx/defaults_vtx_tables.txt
 
-
+set aux 0 0 0 1925 2050 0 0
 set aux 1 1 1 1700 2100 0 0
 set aux 2 2 1 1350 1700 0 0
 set aux 3 13 2 1875 1950 0 0

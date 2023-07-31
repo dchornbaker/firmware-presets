@@ -3657,6 +3657,25 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/modes/n1dch-modes.txt",
+      "hash": "d1f6cfa92131260471b503258f654ccc45ed0802a72a0c577395355efc2d7c43",
+      "title": "N1DCH modes",
+      "firmware_version": [
+        "3.5",
+        "4.2",
+        "4.3",
+        "4.4"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Modes",
+        "aux"
+      ],
+      "author": "N1DCH (Dave Hornbaker)",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/osd/Dave_OSD.txt",
       "hash": "1de55666dbcb65f5538048ffe530fdac5b37dbe62e7d4926a0aa7ac597a5bd19",
       "title": "N1DCH - OSD",

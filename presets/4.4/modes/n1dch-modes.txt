@@ -4,12 +4,11 @@
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: MODES
-#$ STATUS: COMMUNITY
+#$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: Modes, aux
 #$ AUTHOR: N1DCH (Dave Hornbaker)
-#$ DESCRIPTION: SA2.0 VTX table for the Emax TinyHawk 1S
-#$ INCLUDE_DISCLAIMER: misc/disclaimer/en/vtxtable.txt
-#$ INCLUDE: presets/4.3/vtx/defaults_vtx_tables.txt
+#$ DESCRIPTION: N1DCH privite mode settings
+##$ INCLUDE: presets/4.3/modes/defaults.txt
 
 set aux 0 0 0 1925 2050 0 0
 set aux 1 1 1 1700 2100 0 0

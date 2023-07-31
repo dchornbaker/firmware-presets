@@ -8,7 +8,7 @@
 #$ KEYWORDS: Modes, aux
 #$ AUTHOR: N1DCH (Dave Hornbaker)
 #$ DESCRIPTION: N1DCH privite mode settings
-##$ INCLUDE: presets/4.3/modes/defaults.txt
+#$ INCLUDE: presets/4.3/modes/defaults.txt
 
 set aux 0 0 0 1925 2050 0 0
 set aux 1 1 1 1700 2100 0 0
